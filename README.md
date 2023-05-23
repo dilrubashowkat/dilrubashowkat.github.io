@@ -103,12 +103,10 @@ Based Investigation.*", in the 21st ACM Computer-Supported Cooperative Work and 
 
 ### Workshop
 1. **Dilruba Showkat**, Shereen Bellamy, Alexandra To, *"Fair and Trustworthy Welfare Systems: Re-
-thinking Explainable AI in the Public Sector"*, In ACM Conference on Human Factors in Computing
+thinking Explainable AI in the Public Sector"*, in ACM Conference on Human Factors in Computing
 Systems (CHI) workshop, 2022. [https://www.researchgate.net/publication/360396692_Fair_and_Trustworthy_Welfare_Systems_Rethinking_Explainable_AI_in_the_Public_Sector](https://www.researchgate.net/publication/360396692_Fair_and_Trustworthy_Welfare_Systems_Rethinking_Explainable_AI_in_the_Public_Sector)
-2. **Dilruba Showkat**, *"Supporting Responsible Data and Algorithmic Practices in The News Media"*, in
-Intelligent User Interfaces (IUI) workshop, 2022. [http://ceur-ws.org/Vol-3124/paper18.pdf](http://ceur-ws.org/Vol-3124/paper18.pdf)
-3. **Dilruba Showkat**, *"Tinkering: A Way Towards Designing Transparent Algorithmic User Interfaces."*,
-in Intelligent User Interfaces (IUI) workshop, 2021. [http://ceur-ws.org/Vol-2903/IUI21WS-HUMANIZE-5.pdf](http://ceur-ws.org/Vol-2903/IUI21WS-HUMANIZE-5.pdf)
+2. **Dilruba Showkat**, *"Supporting Responsible Data and Algorithmic Practices in The News Media"*, in ACM Intelligent User Interfaces (IUI) workshop, 2022. [http://ceur-ws.org/Vol-3124/paper18.pdf](http://ceur-ws.org/Vol-3124/paper18.pdf)
+3. **Dilruba Showkat**, *"Tinkering: A Way Towards Designing Transparent Algorithmic User Interfaces."*, in ACM Intelligent User Interfaces (IUI) workshop, 2021. [http://ceur-ws.org/Vol-2903/IUI21WS-HUMANIZE-5.pdf](http://ceur-ws.org/Vol-2903/IUI21WS-HUMANIZE-5.pdf)
 4. **Dilruba Showkat**, Eric P. S. Baumer, *"Outliers: More than Numbers?."*, in the 23nd ACM Computer-
 Supported Cooperative Work and Social Computing (CSCW) workshop (Virtually held), 2020. [https://www.researchgate.net/publication/345774805_Outliers_More_Than_Numbers](https://www.researchgate.net/publication/345774805_Outliers_More_Than_Numbers)
 
@@ -176,6 +174,7 @@ Conference Paper Reviewer:
 * ACM DIS: 2022, 2023
 * ACM CC: 2022, 2023
 * ACM CHIPLAY: 2021, 2022
+* ACM IUI: 2022, 2023
 
 Program Committee Member:
 * PhD Applications Review (2022, 2023) - Northeastern University 
