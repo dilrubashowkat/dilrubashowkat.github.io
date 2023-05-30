@@ -24,6 +24,8 @@ received a second MS degree in CS from Oregon State University. I love doing ser
 ## NEWS
 * My CHI'23 paper on <mark> khoury news </mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
 
+--------------------------------------------------------------------------------
+
 
 ## RESEARCH INTERESTS
 * Human-Computer Interaction (HCI)
