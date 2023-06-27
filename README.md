@@ -63,9 +63,8 @@ University of Dhaka, Dhaka, Bangladesh
 * ACM CHI 2023 - Spcial Recognition for Outstanding Reviewer Award.
 * Recipient of 2020 CRA-WP Grad Cohort for Women scholarship.
 * Full tuition assistantship, Oregon State University, Fall 2015.
-* Received Ruqayyah Hall provost award and university scholarship for outstanding performance in B.Sc
-(2007, 2010).
-
+* Received Ruqayyah Hall provost award (2010)
+* University scholarship for outstanding performance in B.Sc (2007).
 
 --------------------------------------------------------------------------------
 
