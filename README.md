@@ -89,10 +89,7 @@ uitous Robots (UR), Hawaii, USA, 2018. [https://ieeexplore.ieee.org/document/844
 6. **Dilruba Showkat**, Mitra Kabir, *"Inference of Genetic Networks using multi-objective Hybrid SPEA2+
 from Microarray data.", in the 12th International Conference on Cognitive Informatics and Cognitive
 Computing (ICCI*CC), New York, USA, 2013, Page(s): 195-202. [https://ieeexplore.ieee.org/document/6622244](https://ieeexplore.ieee.org/document/6622244)
-7. **Dilruba Showkat**, Mitra Kabir, *"An Application of Artificial Bee Colony Algorithm and Comparison
-with its variants."*, in the 2nd International Conference on Informatics, Electronics and Vision (ICIEV),
-Dhaka, Bangladesh, 2013, Page(s): 1-6. [https://ieeexplore.ieee.org/document/6572547](https://ieeexplore.ieee.org/document/6572547)
-8. Rezwana Sultana, **Dilruba Showkat**, Mohammad Samiullah, Ahsan Raja Chowdhury, *"Reconstruction of Gene Regulatory Network using Enhance Particle Swarm Optimization."*, in the 21st International Conference on Neural Information Processing (ICONIP), Malaysia, 2014, Page(s): 229-236. [https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28](https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28)
+7. Rezwana Sultana, **Dilruba Showkat**, Mohammad Samiullah, Ahsan Raja Choon of Gene Regulatory Network using Enhance Particle Swarm Optimization."*, in the 21st International Conference on Neural Information Processing (ICONIP), Malaysia, 2014, Page(s): 229-236. [https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28](https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28)
 
 
 ### Posters
@@ -116,7 +113,7 @@ Supported Cooperative Work and Social Computing (CSCW) workshop (Virtually held)
 
 ## SELECTED RESEARCH PROJECTS
 * ***Understanding Students Perception of Automated Job Hiring Algorithms (AHA) - Northeastern University***. (Fall 2022). Advisor: Varun Mishra \
-Designing an online survey investigating students perceptions of AHA. Statistical analysis (e.g., t-test) showed media efficacy was positively correlated (p-value = 0.01383*) with AHA awareness.
+Designing an online survey investigating students perceptions of AHA. Statistical analysis (e.g., spearman correlation) showed media efficacy was positively correlated (p-value = 0.01383*) with AHA awareness.
 MANOVA showed students educational level and gender was a strong predictor of AHA awareness
 across STEM and non-STEM majors.
 * ***Investigating Supervised Classification on Stress Recognition: The Case of SWELL-KW
@@ -185,9 +182,8 @@ Program Committee Member:
 
 --------------------------------------------------------------------------------
 
-## PERSONAL INTERESTS
-
-I love pets; currently, I live with our apartment puppy, she's just adorable and provides a great escape from hectic life. I also love capturing nature photographs, especially sunsets and flowers! A glimpse of all these escapes I share in my digital diary [Instagram](https://www.instagram.com/ecstasyethereal/?hl=en).
+<!-- ## PERSONAL INTERESTS
+I love pets; currently, I live with our apartment puppy, she's just adorable and provides a great escape from hectic life. I also love capturing nature photographs, especially sunsets and flowers! A glimpse of all these escapes I share in my digital diary [Instagram](https://www.instagram.com/ecstasyethereal/?hl=en). -->
 
 
 
