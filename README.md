@@ -8,7 +8,7 @@
 <!-- ![Dilruba](Images/IMG_3267.jpg){ width=10%,height:10px } -->
 
 
-[Work Email](showkat.d@northeastern.edu) | [Google Scholar](https://scholar.google.com/citations?user=g7wnqBgAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/dilruba-showkat-a644389/) | [Researchgate](https://www.researchgate.net/profile/Dilruba-Showkat) | [Orcid](https://orcid.org/0000-0003-3362-5800) 
+[Work Email](showkat.d@northeastern.edu) | [Google Scholar](https://scholar.google.com/citations?user=g7wnqBgAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/dilruba-showkat-a644389/) | [Researchgate](https://www.researchgate.net/profile/Dilruba-Showkat) | [Orcid](https://orcid.org/0000-0003-3362-5800) | [DBLP]
 
 
 --------------------------------------------------------------------------------
@@ -23,8 +23,9 @@ received a second MS degree in CS from Oregon State University. I love doing ser
 
 ## NEWS
 * My CHI'23 paper on <mark> Khoury news </mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
-* Our DIS'23 paper won the Best Paper award, more here [https://www.acm.org/conferences/best-paper-awards#DIS23] (https://www.acm.org/conferences/best-paper-awards#DIS23). 
-* Served as a PC for the first time. 
+* Our DIS'23 paper won the <mark> Best Paper award </mark>. More here [https://www.acm.org/conferences/best-paper-awards#DIS23](https://www.acm.org/conferences/best-paper-awards#DIS23). 
+* Served as a PC for the first time.
+
 
 --------------------------------------------------------------------------------
 
