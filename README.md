@@ -14,15 +14,17 @@
 --------------------------------------------------------------------------------
 
 ## BIO
-I am a Ph.D candidate in the Khoury College of Computer Science department at Northeastern University. I am advised by Professor [Alexandra To](https://camd.northeastern.edu/faculty/alexandra-to/). My research spans
+I am a Ph.D. candidate in the Khoury College of Computer Science department at Northeastern University. I am advised by Professor [Alexandra To](https://camd.northeastern.edu/faculty/alexandra-to/). My research spans
 at the intersection of HCI, AI transparency, Values informed design, and Human-centered Data Science. Currently, I am focusing on contributing to AI literacy
 for marginalized or low-income communities. I am deeply passionate about making AI and data science knowledge more
-accessible and widespread for everyone. My work has been published in premier HCI venues including ACM CHI, ACM CSCW and ACM DIS. In a previous life, I worked as a
-lecturer in the CSE department, BRAC University, Dhaka, Bangladesh. I completed my BS and MS (with highest distinction) in CSE from University of Dhaka, Bangladesh. I also
+accessible and widespread for everyone. My work has been published in premier HCI venues including ACM CHI, ACM CSCW, and ACM DIS. In my previous life, I worked as a
+lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my BS and MS (with highest distinction) in CSE from the University of Dhaka, Bangladesh. I also
 received a second MS degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 55+ conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
-* My CHI'23 paper on <mark> khoury news </mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
+* My CHI'23 paper on <mark> Khoury news </mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
+* Our DIS'23 paper won the Best Paper award, more here [https://www.acm.org/conferences/best-paper-awards#DIS23] (https://www.acm.org/conferences/best-paper-awards#DIS23). 
+* Served as a PC for the first time. 
 
 --------------------------------------------------------------------------------
 
@@ -60,7 +62,8 @@ University of Dhaka, Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## HONORS AND AWARDS
-* ACM CHI 2023 - Spcial Recognition for Outstanding Reviewer Award.
+* ACM CHI 2023 - Special Recognition for Outstanding Reviewer Award.
+* ACD DIS 2023 - Best Paper Award
 * Recipient of 2020 CRA-WP Grad Cohort for Women scholarship.
 * Full tuition assistantship, Oregon State University, Fall 2015.
 * Received Ruqayyah Hall provost award (2010)
@@ -112,24 +115,24 @@ Supported Cooperative Work and Social Computing (CSCW) workshop (Virtually held)
 
 ## SELECTED RESEARCH PROJECTS
 * ***Understanding Students Perception of Automated Job Hiring Algorithms (AHA) - Northeastern University***. (Fall 2022). Advisor: Varun Mishra \
-Designing an online survey investigating students perceptions of AHA. Statistical analysis (e.g., spearman correlation) showed media efficacy was positively correlated (p-value = 0.01383*) with AHA awareness.
-MANOVA showed students educational level and gender was a strong predictor of AHA awareness
+Designing an online survey investigating students' perceptions of AHA. Statistical analysis (e.g., Spearman correlation) showed media efficacy was positively correlated (p-value = 0.01383*) with AHA awareness.
+MANOVA showed students' educational level and gender was strong predictor of AHA awareness
 across STEM and non-STEM majors.
 * ***Investigating Supervised Classification on Stress Recognition: The Case of SWELL-KW
 Dataset - Northeastern University***. (Spring 2022). Advisor: Ehsan Elhamifar \
 Experimenting with various ML algorithms (e.g., KNN with RBF kernel, DNN) on stress recognition
-dataset. Identifed five optimal set of parameters for stress recognition through cross validation, which
+dataset. Identified five optimal sets of parameters for stress recognition through cross-validation, which
 produced similar results compared to the original feature set (50 parameters).
 * ***BIPOC Flourishing Project - Northeastern University***. (Fall-2021 - Present). Advisor: Alexandra To \
-Conducting in-depth literature reviews. Responsible for interview and co-design experimental study design. Managing team collaboration, focus group sessions and coordinating data analysis. Two paper(s) from this project is currently under
+Conducting in-depth literature reviews. Responsible for interview and co-design experimental study design. Managing team collaboration, focus group sessions, and coordinating data analysis. Two paper(s) from this project is currently under
 submission.
-* ***Usability Evaluation of a Transformational Game - Northeastern University***. (Fall-2021).
+* ***Usability Evaluation of a Transformational Game - Northeastern University***. (Fall 2021).
 Advisor: Timothy Beckhmore \
-Designing an mixed-method experimental study. Game purpose is to help someone become an ally when someone experiencing gender microaggression. Finding indicate that the proposed evaluation method informed by game's central and supporting transformational goals (e.g, motivation, self-efficacy) efficiently captured the desired change in the player.
+Designing a mixed-method experimental study. The game's purpose is to help someone become an ally when someone experiencing gender microaggression. Findings indicate that the proposed evaluation method informed by the game's central and supporting transformational goals (e.g., motivation, self-efficacy) efficiently captured the desired change in the player.
 * ***The Application of ML/DL Algorithms on Various Dataset(s) - Lehigh University***. (Spring
 2021). Advisor: Lifang He \
 Experimenting with ML algorithms (KNN, SVM, CNN) on publicly available datasets (e.g., MNIST).
-Using cross validation, KNN/SVM achieved on average 72% accuracy on cho/iyer tabular dataset, whereas, CNN outperformed KNN/SVM on MNIST image dataset (i.e., 98% accuracy).
+Using cross-validation, KNN/SVM achieved on average 72% accuracy on the cho/iyer tabular dataset, whereas, CNN outperformed KNN/SVM on the MNIST image dataset (i.e., 98% accuracy).
 
 --------------------------------------------------------------------------------
 
@@ -156,7 +159,7 @@ Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## MENTORING EXPERIENCE
-I am fortunate to work with amazing undergraduate students during my PhD at Northeastern. 
+I am fortunate to have worked with amazing undergraduate students during my PhD at Northeastern. 
 
 * Lingqing Wang (Industrial Engineering, Tsinghua University) --> Incoming PhD student (Georgia Tech, Fall 2023)
 * Laveda Chan (Cell and Molecular Biology, Northeastern University) --> (Harvard Med School Co-op, Spring 2023)
@@ -167,7 +170,7 @@ I am fortunate to work with amazing undergraduate students during my PhD at Nort
 
 ## SERVICE EXPERIENCE
 Conference Paper Reviewer:
-* ACM CSCW: 2020, 2021, 2022, 2023
+* ACM CSCW: 2020, 2021, 2022, 2023, 2024
 * ACM CHI: 2023 
 * ACM DIS: 2022, 2023
 * ACM CC: 2022, 2023
@@ -182,7 +185,7 @@ Program Committee Member:
 --------------------------------------------------------------------------------
 
 <!-- ## PERSONAL INTERESTS
-I love pets; currently, I live with our apartment puppy, she's just adorable and provides a great escape from hectic life. I also love capturing nature photographs, especially sunsets and flowers! A glimpse of all these escapes I share in my digital diary [Instagram](https://www.instagram.com/ecstasyethereal/?hl=en). -->
+I love pets; currently, I live with our apartment puppy, She's just adorable and provides a great escape from a hectic life. I also love capturing nature photographs, especially sunsets and flowers! A glimpse of all these escapes I share in my digital diary [Instagram](https://www.instagram.com/ecstasyethereal/?hl=en). -->
 
 
 
