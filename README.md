@@ -117,7 +117,7 @@ Supported Cooperative Work and Social Computing (CSCW) workshop (Virtually held)
 ## SELECTED RESEARCH PROJECTS
 * ***Understanding Students Perception of Automated Job Hiring Algorithms (AHA) - Northeastern University***. (Fall 2022). Advisor: Varun Mishra \
 Designing an online survey investigating students' perceptions of AHA. Statistical analysis (e.g., Spearman correlation) showed media efficacy was positively correlated (p-value = 0.01383*) with AHA awareness.
-MANOVA showed students' educational level and gender was strong predictor of AHA awareness
+MANOVA showed students' educational level and gender was a strong predictor of AHA awareness
 across STEM and non-STEM majors.
 * ***Investigating Supervised Classification on Stress Recognition: The Case of SWELL-KW
 Dataset - Northeastern University***. (Spring 2022). Advisor: Ehsan Elhamifar \
