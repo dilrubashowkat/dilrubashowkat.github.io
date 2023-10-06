@@ -25,7 +25,7 @@ received a second MS degree in CS from Oregon State University. I love doing ser
 * My CHI'23 paper on <mark> Khoury news </mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
 * Our DIS'23 paper won the <mark> Best Paper award </mark>. More here [https://www.acm.org/conferences/best-paper-awards#DIS23](https://www.acm.org/conferences/best-paper-awards#DIS23) 
 * Served as a Program Committee.
-* Defended my PhD proposal. Thanks to the amazing committee members for their critical and thoughtful comments throughout the process.
+* <mark> Defended my PhD proposal </mark>. Thanks to the amazing committee members for their critical and thoughtful comments throughout the process.
 
 
 --------------------------------------------------------------------------------
