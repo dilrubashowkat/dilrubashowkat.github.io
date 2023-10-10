@@ -47,7 +47,7 @@ Khoury College of Computer Science \
 Northeastern University, Boston, MA, USA \
 Thesis Advisor: Prof. Alexandra To 
 
-*Research Assistant (Fall 2019 - Summer 2021)* \
+Research Assistant (Fall 2019 - Summer 2021) \
 Lehigh University, Bethlehem, PA, USA (transferred out)
 
 ***Masters (M.S.) in Computer Science (Summer 2017)*** \
