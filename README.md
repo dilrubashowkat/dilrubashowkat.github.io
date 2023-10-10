@@ -1,6 +1,6 @@
 # Dilruba Showkat (she/her)
 #### Ph.D. Candidate
-#### [Khoury College of Computer Science](https://www.khoury.northeastern.edu/people/dilruba-showkat/)
+#### [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/people/dilruba-showkat/)
 #### Northeastern University
 #### Boston, MA, USA
 
@@ -22,10 +22,10 @@ lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I complet
 received a second MS degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 55+ conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
-* My CHI'23 paper on <mark> Khoury news </mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
-* Our DIS'23 paper won the <mark> Best Paper award </mark>. More here [https://www.acm.org/conferences/best-paper-awards#DIS23](https://www.acm.org/conferences/best-paper-awards#DIS23) 
+* My CHI'23 paper on <mark> Khoury news</mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
+* Our DIS'23 paper won the <mark> Best Paper award</mark>. More here [https://www.acm.org/conferences/best-paper-awards#DIS23](https://www.acm.org/conferences/best-paper-awards#DIS23) 
 * Served as a Program Committee.
-* <mark> Defended my PhD proposal </mark>. Thanks to the amazing committee members for their critical and thoughtful comments throughout the process.
+* <mark> Defended my PhD proposal</mark>. Thanks to the amazing committee members for their critical and thoughtful comments throughout the process.
 
 
 --------------------------------------------------------------------------------
