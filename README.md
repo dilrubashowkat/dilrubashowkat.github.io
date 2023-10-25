@@ -23,7 +23,7 @@ received a second MS degree in CS from Oregon State University. I love doing ser
 
 ## NEWS
 * My CHI'23 paper on <mark> Khoury news</mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
-* Our DIS'23 paper won the <mark> Best Paper award</mark>. More here [https://www.acm.org/conferences/best-paper-awards#DIS23](https://www.acm.org/conferences/best-paper-awards#DIS23) 
+* Our DIS'23 paper won the <mark> Best Paper award</mark>. More here [https://www.acm.org/conferences/best-paper-awards#DIS23](https://www.acm.org/conferences/best-paper-awards#DIS23) Also on NEU news: [link](https://news.northeastern.edu/research/honors-awards/)
 * Served as a Program Committee.
 * <mark> Defended my PhD proposal</mark>. Thanks to the amazing committee members for their critical and thoughtful comments throughout the process.
 
@@ -182,6 +182,8 @@ Conference Paper Reviewer:
 Program Committee Member:
 * PhD Applications Review (2022, 2023) - Northeastern University 
 * Faculty Hiring (2023) - Northeastern University
+* ACM ICMI 2023
+* ACM IUI 2023
 * Review Committee member in the HCI Track at the Grace Hopper Conference (GHC): 2019, 2020, 2021
 
 --------------------------------------------------------------------------------
