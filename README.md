@@ -19,7 +19,7 @@ at the intersection of HCI, AI transparency, Values informed design, and Human-c
 for marginalized or low-income communities. I am deeply passionate about making AI and data science knowledge more
 accessible and widespread for everyone. My work has been published in premier HCI venues including ACM CHI, ACM CSCW, and ACM DIS. In my previous life, I worked as a
 lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my BS and MS (with highest distinction) in CSE from the University of Dhaka, Bangladesh. I also
-received a second MS degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 65+ conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
+received a second MS degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 60+ conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
 * My CHI'23 paper on <mark> Khoury news</mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
