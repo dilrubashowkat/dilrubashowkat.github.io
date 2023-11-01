@@ -173,7 +173,7 @@ I am fortunate to have worked with amazing undergraduate students during my PhD 
 ## SERVICE EXPERIENCE
 Conference Paper Reviewer:
 * ACM CSCW: 2020, 2021, 2022, 2023, 2024
-* ACM CHI: 2023 
+* ACM CHI: 2023, 2024 
 * ACM DIS: 2022, 2023
 * ACM CC: 2022, 2023
 * ACM CHIPLAY: 2021, 2022
