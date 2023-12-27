@@ -35,6 +35,7 @@ received a second MS degree in CS from Oregon State University. I love doing ser
 * AI Transparency
 * Value Sensitive Design (VSD)
 * Human-centered Data Science (HCDS)
+* Optimization Algorithms
 
 
 --------------------------------------------------------------------------------
@@ -46,9 +47,6 @@ Graduate Assistant (Fall 2021 - present) \
 Khoury College of Computer Science \
 Northeastern University, Boston, MA, USA \
 Thesis Advisor: Prof. Alexandra To 
-
-Research Assistant (Fall 2019 - Summer 2021) \
-Lehigh University, Bethlehem, PA, USA (transferred out)
 
 ***Masters (M.S.) in Computer Science (Summer 2017)*** \
 Oregon State University, Corvallis, Oregon, USA
