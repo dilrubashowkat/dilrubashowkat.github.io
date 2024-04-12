@@ -19,9 +19,12 @@ the intersection of HCI, AI transparency, Value-sensitive design, and Human-cent
 for marginalized low-income individuals. I am deeply passionate about making AI/ML and data science knowledge more
 accessible and widespread for everyone. My work has been published in premier HCI venues including ACM CHI, ACM CSCW, and ACM DIS. In my previous life, I worked as a
 lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my BS and MS (with highest distinction) in CSE from the University of Dhaka, Bangladesh. I also
-received a second MS degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 60+ conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
+received a second MS degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 70+ conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
+* Congratulations, my advisor Prof. Alexandra, on receiving the NSF Career Award!!
+* Congratulations to Laveda Chen on her first-author paper at CHI'24!
+* Wrapping up serving as a PhD student rep for the hiring committee. 
 * My CHI'23 paper on <mark> Khoury news</mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
 * Our DIS'23 paper won the <mark> Best Paper award</mark>. More here [https://www.acm.org/conferences/best-paper-awards#DIS23](https://www.acm.org/conferences/best-paper-awards#DIS23). Also on NEU news: [link](https://news.northeastern.edu/research/honors-awards/)
 * Served as a Program Committee.
@@ -172,14 +175,14 @@ I am fortunate to have worked with amazing undergraduate students during my PhD 
 Conference Paper Reviewer:
 * ACM CSCW: 2020, 2021, 2022, 2023, 2024
 * ACM CHI: 2023, 2024 
-* ACM DIS: 2022, 2023
-* ACM CC: 2022, 2023
+* ACM DIS: 2022, 2023, 2024
+* ACM CC: 2022, 2023, 2024
 * ACM CHIPLAY: 2021, 2022
 * ACM IUI: 2022, 2023, 2024
 
 Program Committee Member:
 * PhD Applications Review (2022, 2023) - Northeastern University 
-* Faculty Hiring (2023) - Northeastern University
+* Faculty Hiring (2023, 2024) - Northeastern University
 * ACM ICMI 2023
 * ACM IUI 2023
 * Review Committee member in the HCI Track at the Grace Hopper Conference (GHC): 2019, 2020, 2021
