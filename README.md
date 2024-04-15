@@ -165,7 +165,7 @@ Dhaka, Bangladesh
 I am fortunate to have worked with amazing undergraduate students during my PhD at Northeastern. 
 
 * Lingqing Wang (Industrial Engineering, Tsinghua University) --> Incoming PhD student (Georgia Tech, Fall 2023)
-* Laveda Chan (Cell and Molecular Biology, Northeastern University) --> (Harvard Med School Co-op, Spring 2023)
+* Laveda Chan (Cell and Molecular Biology, Northeastern University) --> (UPen, Incoming Fall 2024)
 * Devina Raithatha (CS, Northeastern University) --> Product Management (Oracle, Fall 2022)
 
 
@@ -173,12 +173,12 @@ I am fortunate to have worked with amazing undergraduate students during my PhD 
 
 ## SERVICE EXPERIENCE
 Conference Paper Reviewer:
-* ACM CSCW: 2020, 2021, 2022, 2023, 2024
-* ACM CHI: 2023, 2024 
-* ACM DIS: 2022, 2023, 2024
-* ACM CC: 2022, 2023, 2024
-* ACM CHIPLAY: 2021, 2022
-* ACM IUI: 2022, 2023, 2024
+* ACM CSCW: 2020-2024
+* ACM CHI: 2023-2024 
+* ACM DIS: 2022-2024
+* ACM CC: 2022-2024
+* ACM CHIPLAY: 2021-2022
+* ACM IUI: 2022-2024
 
 Program Committee Member:
 * PhD Applications Review (2022, 2023) - Northeastern University 
