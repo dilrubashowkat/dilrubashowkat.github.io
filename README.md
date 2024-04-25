@@ -155,17 +155,17 @@ Dhaka, Bangladesh
 
 ### Courses Taught
 * CSE 101 Introduction to Computer Science
-* CSE 161/CSE 110 Computer Programming (JAVA)
-* CSE 330 Numerical Methods (MATLAB)
+* CSE 161/CSE 110 Computer Programming 
+* CSE 330 Numerical Methods 
 * CSE 420 Compiler Design
 
 --------------------------------------------------------------------------------
 
 ## MENTORING EXPERIENCE
-I am fortunate to have worked with amazing undergraduate students during my PhD at Northeastern. 
+I am fortunate to have worked with amazing undergraduate and graduate students during my PhD at Northeastern. 
 
-* Lingqing Wang (Industrial Engineering, Tsinghua University) --> Incoming PhD student (Georgia Tech, Fall 2023)
-* Laveda Chan (Cell and Molecular Biology, Northeastern University) --> (UPen, Incoming Fall 2024)
+* Lingqing Wang (Industrial Engineering, Tsinghua University) --> Current PhD student (Georgia Tech, Fall 2023)
+* Laveda Chan (Cell and Molecular Biology, Northeastern University) --> Dental College (UPen, Incoming Fall 2024)
 * Devina Raithatha (CS, Northeastern University) --> Product Management (Oracle, Fall 2022)
 
 
@@ -177,8 +177,9 @@ Conference Paper Reviewer:
 * ACM CHI: 2023-2024 
 * ACM DIS: 2022-2024
 * ACM CC: 2022-2024
-* ACM CHIPLAY: 2021-2022
 * ACM IUI: 2022-2024
+* ACM CHIPLAY: 2021-2022
+
 
 Program Committee Member:
 * PhD Applications Review (2022, 2023) - Northeastern University 
