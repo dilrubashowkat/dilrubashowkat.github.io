@@ -66,7 +66,8 @@ University of Dhaka, Dhaka, Bangladesh
 ## HONORS AND AWARDS
 * ACM CHI 2023 - Special Recognition for Outstanding Reviewer Award.
 * ACM DIS 2023 - Best Paper Award.
-* Nominated by NEU Graduate School for Google PhD Fellowship (2022).
+* Nominated by NEU Khoury College Graduate School for Outstanding PhD student award (2024).
+* Nominated by NEU Khoury College Graduate School for Google PhD Fellowship (2022).
 * Recipient of the Computing Research Association for Women (CRA-WP) Grad Cohort for Women scholarship (2020).
 * Full tuition assistantship, Oregon State University (2015).
 * Received Ruqayyah Hall provost award (2010).
