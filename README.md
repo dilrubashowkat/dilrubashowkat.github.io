@@ -23,7 +23,7 @@ received a second MS degree in CS from Oregon State University. I love doing ser
 
 ## NEWS
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
-* Congratulations to Laveda Chen on her first-author paper at CHI'24!
+* Congratulations to Laveda Chen on her first-author paper at CHI'24! We are featured in Khoury News, [https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen](https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen)
 * Wrapping up serving as a PhD student representative for the hiring committee. 
 * My CHI'23 paper on <mark> Khoury news</mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
 * Our DIS'23 paper won the <mark> Best Paper award</mark>. More here [https://www.acm.org/conferences/best-paper-awards#DIS23](https://www.acm.org/conferences/best-paper-awards#DIS23). Also on NEU news: [link](https://news.northeastern.edu/research/honors-awards/)
