@@ -24,7 +24,7 @@ received a second M.S. degree in CS from Oregon State University. I love doing s
 ## NEWS
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
 * Congratulations to Laveda Chen on her first-author paper at CHI'24! We are featured in Khoury News, [https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen](https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen)
-* Wrapping up serving as a PhD student representative for the hiring committee. 
+* Wrapping up serving as a PhD student representative for the 2024 faculty hiring season. 
 * My CHI'23 paper on <mark> Khoury news</mark>: [https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is](https://www.khoury.northeastern.edu/awards-ethics-cross-college-collaboration-northeastern-at-chi-2023/#who-is)
 * Our DIS'23 paper won the <mark> Best Paper award</mark>. More here [https://www.acm.org/conferences/best-paper-awards#DIS23](https://www.acm.org/conferences/best-paper-awards#DIS23). Also on NEU news: [link](https://news.northeastern.edu/research/honors-awards/)
 * Served as a Program Committee.
@@ -45,7 +45,7 @@ received a second M.S. degree in CS from Oregon State University. I love doing s
 
 ## EDUCATION
 
-***Ph.D. Student*** \
+***Ph.D. Candidate*** \
 Graduate Assistant (Fall 2021 - present) \
 Khoury College of Computer Science \
 Northeastern University, Boston, MA, USA \
@@ -64,10 +64,10 @@ University of Dhaka, Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## HONORS AND AWARDS
-* Nominated by NEU Khoury College Graduate School for Outstanding PhD student award (2024).
+* Nominated by Northeastern Khoury College Graduate School for Outstanding PhD student award (2024).
 * ACM CHI 2023 - Special Recognition for Outstanding Reviewer Award.
 * ACM DIS 2023 - Best Paper Award.
-* Nominated by NEU Khoury College Graduate School for Google PhD Fellowship (2022).
+* Nominated by Northeastern Khoury College Graduate School for Google PhD Fellowship (2022).
 * Recipient of the Computing Research Association for Women (CRA-WP) Grad Cohort for Women scholarship (2020).
 * Full tuition assistantship, Oregon State University (2015).
 * Received Ruqayyah Hall provost award (2010).
