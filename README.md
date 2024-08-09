@@ -18,8 +18,8 @@ I am a Ph.D. Candidate in the Khoury College of Computer Sciences at Northeaster
 the intersection of HCI, AI transparency, Value-sensitive design, and Human-centered Data Science. Currently, I am focusing on contributing to AI/ML literacy and value-sensitive algorithm design
 for marginalized low-income individuals. I am deeply passionate about making AI/ML and data science knowledge more
 accessible and widespread for everyone. My work has been published in premier HCI venues including ACM CHI, ACM CSCW, and ACM DIS. In my previous life, I worked as a
-lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my BS and MS (with highest distinction) in CSE from the University of Dhaka, Bangladesh. I also
-received a second MS degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 75+ conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
+lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my B.Sc. and M.S. (with highest distinction) in CSE from the University of Dhaka, Bangladesh. I also
+received a second M.S. degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 80 conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
@@ -64,9 +64,9 @@ University of Dhaka, Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## HONORS AND AWARDS
+* Nominated by NEU Khoury College Graduate School for Outstanding PhD student award (2024).
 * ACM CHI 2023 - Special Recognition for Outstanding Reviewer Award.
 * ACM DIS 2023 - Best Paper Award.
-* Nominated by NEU Khoury College Graduate School for Outstanding PhD student award (2024).
 * Nominated by NEU Khoury College Graduate School for Google PhD Fellowship (2022).
 * Recipient of the Computing Research Association for Women (CRA-WP) Grad Cohort for Women scholarship (2020).
 * Full tuition assistantship, Oregon State University (2015).
@@ -120,7 +120,7 @@ Supported Cooperative Work and Social Computing (CSCW) workshop (Virtually held)
 ## SELECTED RESEARCH PROJECTS
 * ***Understanding Students Perception of Automated Job Hiring Algorithms (AHA) - Northeastern University***. (Fall 2022). Advisor: Varun Mishra \
 Designing an online survey investigating students' perceptions of AHA. Statistical analysis (e.g., Spearman correlation) showed media efficacy was positively correlated (p-value = 0.01383*) with AHA awareness.
-MANOVA showed students' educational level and gender was a strong predictor of AHA awareness
+MANOVA showed students' educational level and gender were a strong predictor of AHA awareness
 across STEM and non-STEM majors.
 * ***Investigating Supervised Classification on Stress Recognition: The Case of SWELL-KW
 Dataset - Northeastern University***. (Spring 2022). Advisor: Ehsan Elhamifar \
@@ -128,7 +128,7 @@ Experimenting with various ML algorithms (e.g., KNN with RBF kernel, DNN) on str
 dataset. Identified five optimal sets of parameters for stress recognition through cross-validation, which
 produced similar results compared to the original feature set (50 parameters).
 * ***BIPOC Flourishing Project - Northeastern University***. (Fall-2021 - Present). Advisor: Alexandra To \
-Conducting in-depth literature reviews. Responsible for interview and co-design experimental study design. Managing team collaboration, focus group sessions, and coordinating data analysis. Two paper(s) from this project is currently under
+Conducting in-depth literature reviews. Responsible for interview and co-design experimental study design. Managing team collaboration, focus group sessions, and coordinating data analysis. Two papers from this project are currently under
 submission.
 * ***Usability Evaluation of a Transformational Game - Northeastern University***. (Fall 2021).
 Advisor: Timothy Beckhmore \
@@ -177,6 +177,7 @@ Conference Paper Reviewer:
 * ACM CSCW: 2020-2024
 * ACM CHI: 2023-2024 
 * ACM DIS: 2022-2024
+* ACM GROUP: 2024
 * ACM CC: 2022-2024
 * ACM IUI: 2022-2024
 * ACM CHIPLAY: 2021-2022
