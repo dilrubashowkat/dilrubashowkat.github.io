@@ -92,10 +92,10 @@ tion, 5(CSCW2), 1-31, 2021. [https://dl.acm.org/doi/10.1145/3479534](https://dl.
 5. **Dilruba Showkat**, Cindy Grimm, *"Identifying Gender Differences in Information Processing Style,
 Self-efficacy, and Tinkering for Robot Tele-operation."*, in the 15th International Conference on Ubiq-
 uitous Robots (UR), Hawaii, USA, 2018. [https://ieeexplore.ieee.org/document/8441766](https://ieeexplore.ieee.org/document/8441766)
-6. **Dilruba Showkat**, Mitra Kabir, *"Inference of Genetic Networks using multi-objective Hybrid SPEA2+
+<!-- 6. **Dilruba Showkat**, Mitra Kabir, *"Inference of Genetic Networks using multi-objective Hybrid SPEA2+
 from Microarray data.", in the 12th International Conference on Cognitive Informatics and Cognitive
 Computing (ICCI*CC), New York, USA, 2013, Page(s): 195-202. [https://ieeexplore.ieee.org/document/6622244](https://ieeexplore.ieee.org/document/6622244)
-7. Rezwana Sultana, **Dilruba Showkat**, Mohammad Samiullah, Ahsan Raja Choon of Gene Regulatory Network using Enhance Particle Swarm Optimization."*, in the 21st International Conference on Neural Information Processing (ICONIP), Malaysia, 2014, Page(s): 229-236. [https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28](https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28)
+7. Rezwana Sultana, **Dilruba Showkat**, Mohammad Samiullah, Ahsan Raja Choon of Gene Regulatory Network using Enhance Particle Swarm Optimization."*, in the 21st International Conference on Neural Information Processing (ICONIP), Malaysia, 2014, Page(s): 229-236. [https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28](https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28) -->
 
 
 ### Posters
@@ -176,7 +176,7 @@ I am fortunate to have worked with amazing undergraduate and graduate students d
 
 ## SERVICE EXPERIENCE
 Conference Paper Reviewer:
-* ACM CSCW: 2020-2024
+* ACM CSCW: 2020-2025
 * ACM CHI: 2023-2024 
 * ACM DIS: 2022-2024
 * ACM GROUP: 2024
