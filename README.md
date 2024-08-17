@@ -99,10 +99,12 @@ Computing (ICCI*CC), New York, USA, 2013, Page(s): 195-202. [https://ieeexplore.
 
 
 ### Posters
-1. **Dilruba Showkat**, Najeefa Nikhat Choudhury, *"Pathao Ride-sharing App Design: What Do The Users
+1. **Dilruba Showkat**. (2024, May). *"Towards Algorithmic Reform: Low-Income Individuals Inclusion in AI/ML Literacy and Ethical Values-Informed Tool Design"*. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-6). [https://dl.acm.org/doi/full/10.1145/3613905.3651127](https://dl.acm.org/doi/full/10.1145/3613905.3651127)
+2. Laveda Chan, **Showkat, Dilruba**, & Alexandra To (2024, May). *"An Exploration of Learned Values Through Lived Experiences to Design for BIPOC Students’ Flourishing"*. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-7). [https://dl.acm.org/doi/abs/10.1145/3613905.3650899](https://dl.acm.org/doi/abs/10.1145/3613905.3650899)
+3. **Dilruba Showkat**, Najeefa Nikhat Choudhury, *"Pathao Ride-sharing App Design: What Do The Users
 Have To Say?."*, in the 22nd ACM Computer-Supported Cooperative Work and Social Computing
 (CSCW), Austin, TX, USA, 2019. [https://dl.acm.org/doi/10.1145/3311957.3359467](https://dl.acm.org/doi/10.1145/3311957.3359467)
-2. **Dilruba Showkat**, *"Determining Newcomers Barrier in Software Development: An IT Industry
+4. **Dilruba Showkat**, *"Determining Newcomers Barrier in Software Development: An IT Industry
 Based Investigation.*", in the 21st ACM Computer-Supported Cooperative Work and Social Computing
 (CSCW), Jersey City, NY, USA, 2018. [https://dl.acm.org/doi/10.1145/3311957.3359467](https://dl.acm.org/doi/10.1145/3311957.3359467)
 
