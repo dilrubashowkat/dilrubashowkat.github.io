@@ -92,19 +92,12 @@ tion, 5(CSCW2), 1-31, 2021. [https://dl.acm.org/doi/10.1145/3479534](https://dl.
 5. **Dilruba Showkat**, Cindy Grimm, *"Identifying Gender Differences in Information Processing Style,
 Self-efficacy, and Tinkering for Robot Tele-operation."*, in the 15th International Conference on Ubiq-
 uitous Robots (UR), Hawaii, USA, 2018. [https://ieeexplore.ieee.org/document/8441766](https://ieeexplore.ieee.org/document/8441766)
-<!-- 6. **Dilruba Showkat**, Mitra Kabir, *"Inference of Genetic Networks using multi-objective Hybrid SPEA2+
-from Microarray data.", in the 12th International Conference on Cognitive Informatics and Cognitive
-Computing (ICCI*CC), New York, USA, 2013, Page(s): 195-202. [https://ieeexplore.ieee.org/document/6622244](https://ieeexplore.ieee.org/document/6622244)
-7. Rezwana Sultana, **Dilruba Showkat**, Mohammad Samiullah, Ahsan Raja Choon of Gene Regulatory Network using Enhance Particle Swarm Optimization."*, in the 21st International Conference on Neural Information Processing (ICONIP), Malaysia, 2014, Page(s): 229-236. [https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28](https://link.springer.com/chapter/10.1007/978-3-319-12640-1_28) -->
 
 
 ### Posters
 1. **Dilruba Showkat**. (2024, May). *"Towards Algorithmic Reform: Low-Income Individuals Inclusion in AI/ML Literacy and Ethical Values-Informed Tool Design"*. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-6). [https://dl.acm.org/doi/full/10.1145/3613905.3651127](https://dl.acm.org/doi/full/10.1145/3613905.3651127)
 2. Laveda Chan, **Showkat, Dilruba**, & Alexandra To (2024, May). *"An Exploration of Learned Values Through Lived Experiences to Design for BIPOC Students’ Flourishing"*. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-7). [https://dl.acm.org/doi/abs/10.1145/3613905.3650899](https://dl.acm.org/doi/abs/10.1145/3613905.3650899)
-3. **Dilruba Showkat**, Najeefa Nikhat Choudhury, *"Pathao Ride-sharing App Design: What Do The Users
-Have To Say?."*, in the 22nd ACM Computer-Supported Cooperative Work and Social Computing
-(CSCW), Austin, TX, USA, 2019. [https://dl.acm.org/doi/10.1145/3311957.3359467](https://dl.acm.org/doi/10.1145/3311957.3359467)
-4. **Dilruba Showkat**, *"Determining Newcomers Barrier in Software Development: An IT Industry
+3. **Dilruba Showkat**, *"Determining Newcomers Barrier in Software Development: An IT Industry
 Based Investigation.*", in the 21st ACM Computer-Supported Cooperative Work and Social Computing
 (CSCW), Jersey City, NY, USA, 2018. [https://dl.acm.org/doi/10.1145/3311957.3359467](https://dl.acm.org/doi/10.1145/3311957.3359467)
 
