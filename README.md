@@ -94,7 +94,7 @@ Self-efficacy, and Tinkering for Robot Tele-operation."*, in the 15th Internatio
 uitous Robots (UR), Hawaii, USA, 2018. [https://ieeexplore.ieee.org/document/8441766](https://ieeexplore.ieee.org/document/8441766)
 
 
-### Posters
+### Extended Abstracts
 1. **Dilruba Showkat**. (2024, May). *"Towards Algorithmic Reform: Low-Income Individuals Inclusion in AI/ML Literacy and Ethical Values-Informed Tool Design"*. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-6). [https://dl.acm.org/doi/full/10.1145/3613905.3651127](https://dl.acm.org/doi/full/10.1145/3613905.3651127)
 2. Laveda Chan, **Showkat, Dilruba**, & Alexandra To (2024, May). *"An Exploration of Learned Values Through Lived Experiences to Design for BIPOC Students’ Flourishing"*. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-7). [https://dl.acm.org/doi/abs/10.1145/3613905.3650899](https://dl.acm.org/doi/abs/10.1145/3613905.3650899)
 3. **Dilruba Showkat**, *"Determining Newcomers Barrier in Software Development: An IT Industry
@@ -172,9 +172,9 @@ Conference Paper Reviewer:
 * ACM CSCW: 2020-2025
 * ACM CHI: 2023-2024 
 * ACM DIS: 2022-2024
+* ACM IUI: 2022-2024
 * ACM GROUP: 2024
 * ACM CC: 2022-2024
-* ACM IUI: 2022-2024
 * ACM CHIPLAY: 2021-2022
 
 
