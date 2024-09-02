@@ -33,11 +33,8 @@ lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I complet
 
 ## RESEARCH INTERESTS
 * Human-Computer Interaction (HCI)
-* AI Transparency
 * Value Sensitive Design (VSD)
-* Human-centered Data Science (HCDS)
-* Optimization Algorithms
-
+* Human-centered Artificial Inteligence (HCAI)
 
 --------------------------------------------------------------------------------
 
