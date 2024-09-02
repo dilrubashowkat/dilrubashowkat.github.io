@@ -15,11 +15,9 @@
 
 ## BIO
 I am a Ph.D. Candidate in the Khoury College of Computer Sciences at Northeastern University. I am advised by Professor [Alexandra To](https://camd.northeastern.edu/faculty/alexandra-to/). My research spans
-the intersection of HCI, AI transparency, Value-sensitive design, and Human-centered Data Science. Currently, I am focusing on contributing to AI/ML literacy and value-sensitive algorithm design
-for marginalized low-income individuals. I am deeply passionate about making AI/ML and data science knowledge more
+the intersection of HCI, AI transparency, Value-sensitive design, and Human-centered Artificial Intelligence (HCAI). Currently, I am focusing on contributing to AI/ML literacy and value-sensitive algorithm design for marginalized low-income individuals. I am deeply passionate about making AI/ML and data science knowledge more
 accessible and widespread for everyone. My work has been published in premier HCI venues including ACM CHI, ACM CSCW, and ACM DIS. In my previous life, I worked as a
-lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my B.Sc. and M.S. (with highest distinction) in CSE from the University of Dhaka, Bangladesh. I also
-received a second M.S. degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 80 conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
+lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my B.Sc. and M.S. (with highest distinction) in CSE from the University of Dhaka, Bangladesh. I also received a second M.S. degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 80 conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
