@@ -42,7 +42,7 @@ lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I complet
 
 ***Ph.D. Candidate*** \
 Graduate Assistant (Fall 2021 - present) \
-Khoury College of Computer Science \
+Khoury College of Computer Sciences \
 Northeastern University, Boston, MA, USA \
 Thesis Advisor: Prof. Alexandra To 
 
