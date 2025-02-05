@@ -15,9 +15,9 @@
 
 ## BIO
 I am a Ph.D. Candidate in the Khoury College of Computer Sciences at Northeastern University. I am advised by Professor [Alexandra To](https://camd.northeastern.edu/faculty/alexandra-to/). My research spans
-the intersection of HCI, Value-sensitive design, and Human-centered Artificial Intelligence (HCAI). Currently, I am focusing on contributing to AI/ML literacy and value-sensitive algorithm design for marginalized low-income individuals. I am deeply passionate about making AI/ML knowledge more
-accessible to everyone. My work has been published in premier HCI venues including ACM CHI, ACM CSCW, and ACM DIS. In my previous life, I worked as a
-lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my B.Sc. and M.S. (with highest distinction) in CSE from the University of Dhaka, Bangladesh. I also received a second M.S. degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 80 conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
+the intersection of HCI, Value-sensitive design, and Human-centered Artificial Intelligence (HCAI). Currently, I am focusing on contributing to AI/ML literacy and value-sensitive algorithm design for low-income individuals in the USA. I am deeply passionate about making AI/ML knowledge more
+consumable for everyone. My work has been published in premier HCI venues including ACM CHI, ACM CSCW, and ACM DIS. Previously, I worked as a
+lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my B.Sc. and M.S. in CSE from the University of Dhaka, Bangladesh. I also received a second M.S. degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 80 conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
@@ -60,7 +60,6 @@ University of Dhaka, Dhaka, Bangladesh
 
 ## HONORS AND AWARDS
 * Nominated by Northeastern Khoury College Graduate School for Outstanding PhD student award (2024).
-* ACM CHI 2023 - Special Recognition for Outstanding Reviewer Award.
 * ACM DIS 2023 - Best Paper Award.
 * Nominated by Northeastern Khoury College Graduate School for Google PhD Fellowship (2022).
 * Recipient of the Computing Research Association for Women (CRA-WP) Grad Cohort for Women scholarship (2020).
@@ -117,9 +116,6 @@ Dataset - Northeastern University***. (Spring 2022). Advisor: Ehsan Elhamifar \
 Experimenting with various ML algorithms (e.g., KNN with RBF kernel, DNN) on stress recognition
 dataset. Identified five optimal sets of parameters for stress recognition through cross-validation, which
 produced similar results compared to the original feature set (50 parameters).
-* ***BIPOC Flourishing Project - Northeastern University***. (Fall-2021 - Present). Advisor: Alexandra To \
-Conducting in-depth literature reviews. Responsible for interview and co-design experimental study design. Managing team collaboration, focus group sessions, and coordinating data analysis. Two papers from this project are currently under
-submission.
 * ***Usability Evaluation of a Transformational Game - Northeastern University***. (Fall 2021).
 Advisor: Timothy Beckhmore \
 Designing a mixed-method experimental study. The game's purpose is to help someone become an ally when someone experiencing gender microaggression. Findings indicate that the proposed evaluation method informed by the game's central and supporting transformational goals (e.g., motivation, self-efficacy) efficiently captured the desired change in the player.
@@ -165,13 +161,10 @@ I am fortunate to have worked with amazing undergraduate and graduate students d
 ## SERVICE EXPERIENCE
 Conference Paper Reviewer:
 * ACM CSCW: 2020-2025
-* ACM CHI: 2023-2024 
+* ACM CHI: 2023-2025 
 * ACM DIS: 2022-2024
-* ACM IUI: 2022-2024
-* ACM GROUP: 2024
-* ACM CC: 2022-2024
-* ACM CHIPLAY: 2021-2022
-
+* ACM IUI: 2022-2025
+* ACM CC: 2022-2025
 
 Program Committee Member:
 * PhD Applications Review (2022, 2023) - Northeastern University 
