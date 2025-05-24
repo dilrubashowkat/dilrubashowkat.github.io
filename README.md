@@ -20,6 +20,7 @@ consumable for everyone. My work has been published in premier HCI venues includ
 lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my B.Sc. and M.S. in CSE from the University of Dhaka, Bangladesh. I also received a second M.S. degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 80 conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
+* This site is no longer updated, for updates please send email.
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
 * Congratulations to Laveda Chen on her first-author paper at CHI'24! We are featured in Khoury News, [https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen](https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen)
 * Wrapping up serving as a PhD student representative for the 2024 faculty hiring season. 
@@ -106,26 +107,6 @@ Supported Cooperative Work and Social Computing (CSCW) workshop (Virtually held)
 
 --------------------------------------------------------------------------------
 
-## SELECTED RESEARCH PROJECTS
-* ***Understanding Students Perception of Automated Job Hiring Algorithms (AHA) - Northeastern University***. (Fall 2022). Advisor: Varun Mishra \
-Designing an online survey investigating students' perceptions of AHA. Statistical analysis (e.g., Spearman correlation) showed media efficacy was positively correlated (p-value = 0.01383*) with AHA awareness.
-MANOVA showed students' educational level and gender were a strong predictor of AHA awareness
-across STEM and non-STEM majors.
-* ***Investigating Supervised Classification on Stress Recognition: The Case of SWELL-KW
-Dataset - Northeastern University***. (Spring 2022). Advisor: Ehsan Elhamifar \
-Experimenting with various ML algorithms (e.g., KNN with RBF kernel, DNN) on stress recognition
-dataset. Identified five optimal sets of parameters for stress recognition through cross-validation, which
-produced similar results compared to the original feature set (50 parameters).
-* ***Usability Evaluation of a Transformational Game - Northeastern University***. (Fall 2021).
-Advisor: Timothy Beckhmore \
-Designing a mixed-method experimental study. The game's purpose is to help someone become an ally when someone experiencing gender microaggression. Findings indicate that the proposed evaluation method informed by the game's central and supporting transformational goals (e.g., motivation, self-efficacy) efficiently captured the desired change in the player.
-* ***The Application of ML/DL Algorithms on Various Dataset(s) - Lehigh University***. (Spring
-2021). Advisor: Lifang He \
-Experimenting with ML algorithms (KNN, SVM, CNN) on publicly available datasets (e.g., MNIST).
-Using cross-validation, KNN/SVM achieved on average 72% accuracy on the cho/iyer tabular dataset, whereas, CNN outperformed KNN/SVM on the MNIST image dataset (i.e., 98% accuracy).
-
---------------------------------------------------------------------------------
-
 ## TEACHING
 1. Lecturer \
 BRAC University (Spring 2018 - Summer 2019) \
@@ -159,19 +140,21 @@ I am fortunate to have worked with amazing undergraduate and graduate students d
 --------------------------------------------------------------------------------
 
 ## SERVICE EXPERIENCE
-Conference Paper Reviewer:
-* ACM CSCW: 2020-2025
-* ACM CHI: 2023-2025 
-* ACM DIS: 2022-2024
-* ACM IUI: 2022-2025
-* ACM CC: 2022-2025
-
 Program Committee Member:
 * PhD Applications Review (2022, 2023) - Northeastern University 
 * Faculty Hiring (2023, 2024) - Northeastern University
 * ACM ICMI 2023
 * ACM IUI 2023
 * Review Committee member in the HCI Track at the Grace Hopper Conference (GHC): 2019, 2020, 2021
+  
+Conference Paper Reviewer:
+* ACM CSCW: 2020-2025
+* ACM CHI: 2023-2025 
+* ACM DIS: 2022-2025
+* ACM IUI: 2022-2025
+* ACM CC: 2022-2025
+
+
 
 --------------------------------------------------------------------------------
 
