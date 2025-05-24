@@ -20,7 +20,7 @@ consumable for everyone. My work has been published in premier HCI venues includ
 lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my B.Sc. and M.S. in CSE from the University of Dhaka, Bangladesh. I also received a second M.S. degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 80 conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
-* This site is no longer updated, for updates please send email.
+* This site is out of date. Email for updated resume.
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
 * Congratulations to Laveda Chen on her first-author paper at CHI'24! We are featured in Khoury News, [https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen](https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen)
 * Wrapping up serving as a PhD student representative for the 2024 faculty hiring season. 
