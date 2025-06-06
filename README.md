@@ -20,7 +20,6 @@ consumable for everyone. My work has been published in premier HCI venues includ
 lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my B.Sc. and M.S. in CSE from the University of Dhaka, Bangladesh. I also received a second M.S. degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 80 conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
 
 ## NEWS
-* This site is out of date. Email for updated resume.
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
 * Congratulations to Laveda Chen on her first-author paper at CHI'24! We are featured in Khoury News, [https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen](https://www.khoury.northeastern.edu/khoury-researchers-showcase-record-28-works-at-chi-2024/#thirteen)
 * Wrapping up serving as a PhD student representative for the 2024 faculty hiring season. 
@@ -45,7 +44,7 @@ lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I complet
 Graduate Assistant (Fall 2021 - present) \
 Khoury College of Computer Sciences \
 Northeastern University, Boston, MA, USA \
-Thesis Advisor: Prof. Alexandra To 
+Thesis Advisor: Dr. Alexandra To 
 
 ***Masters (M.S.) in Computer Science (Summer 2017)*** \
 Oregon State University, Corvallis, Oregon, USA
@@ -64,7 +63,6 @@ University of Dhaka, Dhaka, Bangladesh
 * ACM DIS 2023 - Best Paper Award.
 * Nominated by Northeastern Khoury College Graduate School for Google PhD Fellowship (2022).
 * Recipient of the Computing Research Association for Women (CRA-WP) Grad Cohort for Women scholarship (2020).
-* Full tuition assistantship, Oregon State University (2015).
 * Received Ruqayyah Hall provost award (2010).
 * Dhaka University scholarship for outstanding performance in B.Sc (2007).
 
@@ -130,7 +128,7 @@ Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## MENTORING EXPERIENCE
-I am fortunate to have worked with amazing undergraduate and graduate students during my PhD at Northeastern. 
+I am fortunate to have worked with amazing undergraduate and graduate students. 
 
 * Lingqing Wang (Industrial Engineering, Tsinghua University) --> Current PhD student (Georgia Tech, Fall 2023)
 * Laveda Chan (Cell and Molecular Biology, Northeastern University) --> Dental College (UPen, Incoming Fall 2024)
@@ -140,9 +138,8 @@ I am fortunate to have worked with amazing undergraduate and graduate students d
 --------------------------------------------------------------------------------
 
 ## SERVICE EXPERIENCE
-Program Committee Member:
-* PhD Applications Review (2022, 2023) - Northeastern University 
-* Faculty Hiring (2023, 2024) - Northeastern University
+Program Committee (PC) Member / Associate Chair (AC)
+* ACM CC 2025 
 * ACM ICMI 2023
 * ACM IUI 2023
 * Review Committee member in the HCI Track at the Grace Hopper Conference (GHC): 2019, 2020, 2021
@@ -154,6 +151,9 @@ Conference Paper Reviewer:
 * ACM IUI: 2022-2025
 * ACM CC: 2022-2025
 
+Volunteering at Northeastern University
+* PhD Applications Review (2022, 2023) - Northeastern University 
+* Faculty Hiring (2023, 2024) - Northeastern University
 
 
 --------------------------------------------------------------------------------
