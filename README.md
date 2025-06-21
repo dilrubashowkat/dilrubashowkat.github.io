@@ -68,18 +68,15 @@ University of Dhaka, Dhaka, Bangladesh
 ## SELECTED RESEARCH PUBLICATIONS
 
 ### Peer-Reviewed Journal and Conference Papers
-1. **Dilruba Showkat**, Angela D. R. Smith, Lingqing Wang, Alexandra To, *"Who is the right homeless
-client?": Values in Algorithmic Homelessness Service Provision and Machine Learning Research."*, In
-Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), 21 pages, 2023. [https://doi.org/10.1145/3544548.3581010](https://doi.org/10.1145/3544548.3581010)
-2. Alexandra To, Angela D. R. Smith, **Dilruba Showkat**, Adinawa Adjagbodjou, Christina Harrington, *"Flourishing in the Everyday: Moving Beyond Damage-Centered Design in HCI for BIPOC Communities."*, In Proceedings of the ACM Conference on Designing Interactive Systems Conference (DIS'23),
+1. Alexandra To, Angela D. R. Smith, **Dilruba Showkat**, Adinawa Adjagbodjou, Christina Harrington, *"Flourishing in the Everyday: Moving Beyond Damage-Centered Design in HCI for BIPOC Communities."*, In Proceedings of the ACM Conference on Designing Interactive Systems Conference (DIS'23),
 21 pages, 2023. [https://doi.org/10.1145/3563657.3596057](https://doi.org/10.1145/3563657.3596057)
-3. **Dilruba Showkat**, Eric P. S. Baumer, *"It's Like the Value System in the Loop": Domain Experts'
+2. **Dilruba Showkat**, Eric P. S. Baumer, *"It's Like the Value System in the Loop": Domain Experts'
 Values Expectations for NLP Automation."*, In Proceedings of the ACM Conference on Designing
 Interactive Systems (DIS), 100-122, 2022. [https://dl.acm.org/doi/10.1145/3532106.3533483](https://dl.acm.org/doi/10.1145/3532106.3533483)
-4. **Dilruba Showkat**, Eric P. S. Baumer, *"Where Do Stories Come From? Examining the Exploration
+3. **Dilruba Showkat**, Eric P. S. Baumer, *"Where Do Stories Come From? Examining the Exploration
 Process in Investigative Data Journalism."*, In Proceedings of the ACM on Human-Computer Interac-
 tion, 5(CSCW2), 1-31, 2021. [https://dl.acm.org/doi/10.1145/3479534](https://dl.acm.org/doi/10.1145/3479534)
-5. **Dilruba Showkat**, Cindy Grimm, *"Identifying Gender Differences in Information Processing Style,
+4. **Dilruba Showkat**, Cindy Grimm, *"Identifying Gender Differences in Information Processing Style,
 Self-efficacy, and Tinkering for Robot Tele-operation."*, in the 15th International Conference on Ubiq-
 uitous Robots (UR), Hawaii, USA, 2018. [https://ieeexplore.ieee.org/document/8441766](https://ieeexplore.ieee.org/document/8441766)
 
@@ -96,9 +93,7 @@ Based Investigation.*", in the 21st ACM Computer-Supported Cooperative Work and 
 thinking Explainable AI in the Public Sector"*, in ACM Conference on Human Factors in Computing
 Systems (CHI) workshop, 2022. [https://www.researchgate.net/publication/360396692_Fair_and_Trustworthy_Welfare_Systems_Rethinking_Explainable_AI_in_the_Public_Sector](https://www.researchgate.net/publication/360396692_Fair_and_Trustworthy_Welfare_Systems_Rethinking_Explainable_AI_in_the_Public_Sector)
 2. **Dilruba Showkat**, *"Supporting Responsible Data and Algorithmic Practices in The News Media"*, in ACM Intelligent User Interfaces (IUI) workshop, 2022. [http://ceur-ws.org/Vol-3124/paper18.pdf](http://ceur-ws.org/Vol-3124/paper18.pdf)
-3. **Dilruba Showkat**, *"Tinkering: A Way Towards Designing Transparent Algorithmic User Interfaces."*, in ACM Intelligent User Interfaces (IUI) workshop, 2021. [http://ceur-ws.org/Vol-2903/IUI21WS-HUMANIZE-5.pdf](http://ceur-ws.org/Vol-2903/IUI21WS-HUMANIZE-5.pdf)
-4. **Dilruba Showkat**, Eric P. S. Baumer, *"Outliers: More than Numbers?."*, in the 23nd ACM Computer-
-Supported Cooperative Work and Social Computing (CSCW) workshop (Virtually held), 2020. [https://www.researchgate.net/publication/345774805_Outliers_More_Than_Numbers](https://www.researchgate.net/publication/345774805_Outliers_More_Than_Numbers)
+
 
 --------------------------------------------------------------------------------
 
@@ -125,10 +120,8 @@ Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## MENTORING EXPERIENCE
-I am fortunate to have worked with amazing undergraduate and graduate students. 
-
 * Lingqing Wang (Industrial Engineering, Tsinghua University) --> Current PhD student (Georgia Tech, Fall 2023)
-* Laveda Chan (Cell and Molecular Biology, Northeastern University) --> Dental College (UPen, Incoming Fall 2024)
+* Laveda Chan (Cell and Molecular Biology, Northeastern University) --> Dental College (DMD Candidate, Pen Medicine, Fall 2024)
 * Devina Raithatha (CS, Northeastern University) --> Product Management (Oracle, Fall 2022)
 
 
