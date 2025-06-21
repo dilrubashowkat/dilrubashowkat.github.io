@@ -14,10 +14,7 @@
 --------------------------------------------------------------------------------
 
 ## BIO
-I am a Ph.D. Candidate in the Khoury College of Computer Sciences at Northeastern University. I am advised by Professor [Alexandra To](https://camd.northeastern.edu/faculty/alexandra-to/). My research spans
-the intersection of HCI, Value-sensitive design, and Human-centered Artificial Intelligence (HCAI). Currently, I am focusing on contributing to AI/ML literacy and value-sensitive algorithm design for low-income individuals in the USA. I am deeply passionate about making AI/ML knowledge more
-consumable for everyone. My work has been published in premier HCI venues including ACM CHI, ACM CSCW, and ACM DIS. Previously, I worked as a
-lecturer in the CSE department, at BRAC University, Dhaka, Bangladesh. I completed my B.Sc. and M.S. in CSE from the University of Dhaka, Bangladesh. I also received a second M.S. degree in CS from Oregon State University. I love doing service work; for example, sometimes on the weekends, I am probably doing service work (e.g., reviewing, attending talks, admission committees). I have reviewed over 80 conference and journal papers in premier HCI venues. In my free time, I like taking nature photographs.
+Dilruba Showkat is a Ph.D. Candidate at Northeastern University’s Khoury College of Computer Sciences, advised by Dr. Alexandra To. Dilruba's research broadly spans HCI, value-sensitive design, and human-centered artificial intelligence (HCAI) and AI Ethics. Before joining the Ph.D. program, Dilruba earned her Bachelor's and Master's degrees in Computer Science from the University of Dhaka, Dhaka, Bangladesh. She earned a M.S. degree in Computer Science from Oregon State University, Oregon, USA. She worked as a lecturer in the CSE department at BRAC University, Dhaka, Bangladesh
 
 ## NEWS
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
@@ -139,6 +136,7 @@ I am fortunate to have worked with amazing undergraduate and graduate students.
 
 ## SERVICE EXPERIENCE
 Program Committee (PC) Member / Associate Chair (AC)
+* ACM CSCW 2025
 * ACM CC 2025 
 * ACM ICMI 2023
 * ACM IUI 2023
