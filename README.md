@@ -68,15 +68,16 @@ University of Dhaka, Dhaka, Bangladesh
 ## SELECTED RESEARCH PUBLICATIONS
 
 ### Peer-Reviewed Journal and Conference Papers
-1. Alexandra To, Angela D. R. Smith, **Dilruba Showkat**, Adinawa Adjagbodjou, Christina Harrington, *"Flourishing in the Everyday: Moving Beyond Damage-Centered Design in HCI for BIPOC Communities."*, In Proceedings of the ACM Conference on Designing Interactive Systems Conference (DIS'23),
+1. **Dilruba Showkat**, Lingqing Wang, Laveda Chan, Alexandra To, *Equality Engine: Fostering Critical Machine Learning Bias Literacy Through a Transformational Game.*, In Proceedings of the ACM on Human-Computer Interaction, 9(2), 1-31.
+2. Alexandra To, Angela D. R. Smith, **Dilruba Showkat**, Adinawa Adjagbodjou, Christina Harrington, *"Flourishing in the Everyday: Moving Beyond Damage-Centered Design in HCI for BIPOC Communities."*, In Proceedings of the ACM Conference on Designing Interactive Systems Conference (DIS'23),
 21 pages, 2023. [https://doi.org/10.1145/3563657.3596057](https://doi.org/10.1145/3563657.3596057)
-2. **Dilruba Showkat**, Eric P. S. Baumer, *"It's Like the Value System in the Loop": Domain Experts'
+3. **Dilruba Showkat**, Eric P. S. Baumer, *"It's Like the Value System in the Loop": Domain Experts'
 Values Expectations for NLP Automation."*, In Proceedings of the ACM Conference on Designing
 Interactive Systems (DIS), 100-122, 2022. [https://dl.acm.org/doi/10.1145/3532106.3533483](https://dl.acm.org/doi/10.1145/3532106.3533483)
-3. **Dilruba Showkat**, Eric P. S. Baumer, *"Where Do Stories Come From? Examining the Exploration
+4. **Dilruba Showkat**, Eric P. S. Baumer, *"Where Do Stories Come From? Examining the Exploration
 Process in Investigative Data Journalism."*, In Proceedings of the ACM on Human-Computer Interac-
 tion, 5(CSCW2), 1-31, 2021. [https://dl.acm.org/doi/10.1145/3479534](https://dl.acm.org/doi/10.1145/3479534)
-4. **Dilruba Showkat**, Cindy Grimm, *"Identifying Gender Differences in Information Processing Style,
+5. **Dilruba Showkat**, Cindy Grimm, *"Identifying Gender Differences in Information Processing Style,
 Self-efficacy, and Tinkering for Robot Tele-operation."*, in the 15th International Conference on Ubiq-
 uitous Robots (UR), Hawaii, USA, 2018. [https://ieeexplore.ieee.org/document/8441766](https://ieeexplore.ieee.org/document/8441766)
 
@@ -111,19 +112,12 @@ BRAC University (Fall 2011 - Summer 2015) \
 Department of Computer Science and Engineering \
 Dhaka, Bangladesh 
 
-### Courses Taught
-* CSE 101 Introduction to Computer Science
-* CSE 161/CSE 110 Computer Programming 
-* CSE 330 Numerical Methods 
-* CSE 420 Compiler Design
-
 --------------------------------------------------------------------------------
 
 ## MENTORING EXPERIENCE
 * Lingqing Wang (Industrial Engineering, Tsinghua University) --> Current PhD student (Georgia Tech, Fall 2023)
 * Laveda Chan (Cell and Molecular Biology, Northeastern University) --> Dental College (DMD Candidate, Pen Medicine, Fall 2024)
 * Devina Raithatha (CS, Northeastern University) --> Product Management (Oracle, Fall 2022)
-
 
 --------------------------------------------------------------------------------
 
