@@ -122,7 +122,7 @@ Dhaka, Bangladesh
 
 ## SERVICE EXPERIENCE
 Program Committee (PC) Member / Associate Chair (AC)
-* AAI/ACM AIES 2025
+* AAAI/ACM AIES 2025
 * ACM CSCW 2025
 * ACM CC 2025 
 * ACM ICMI 2023
