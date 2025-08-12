@@ -1,5 +1,5 @@
-# Dilruba Showkat (she/her)
-#### Ph.D. Candidate
+# Dilruba Showkat
+#### Ph.D. 
 #### [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/people/dilruba-showkat/)
 #### Northeastern University
 #### Boston, MA, USA
@@ -14,7 +14,7 @@
 --------------------------------------------------------------------------------
 
 ## BIO
-Dilruba Showkat is a Ph.D. Candidate at Northeastern University’s Khoury College of Computer Sciences, advised by Dr. Alexandra To. Dilruba's research broadly spans HCI, value-sensitive design, and human-centered artificial intelligence (HCAI) and AI Ethics. Before joining the Ph.D. program, Dilruba earned her Bachelor's and Master's degrees in Computer Science from the University of Dhaka, Dhaka, Bangladesh. She earned a M.S. degree in Computer Science from Oregon State University, Oregon, USA. She worked as a lecturer in the CSE department at BRAC University, Dhaka, Bangladesh
+Dilruba Showkat earned her Ph.D. in Computer Science from Northeastern University’s Khoury College of Computer Sciences, where she was advised by Dr. Alexandra To. Her research spans human–computer interaction (HCI), value-sensitive design, human-centered artificial intelligence (HCAI), and AI ethics. She holds both Bachelor’s and Master’s degrees in Computer Science from the University of Dhaka, Bangladesh, as well as an M.S. in Computer Science from Oregon State University, USA. Before pursuing her Ph.D., she served as a lecturer in the Department of Computer Science and Engineering at BRAC University in Dhaka, Bangladesh.
 
 ## NEWS
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
@@ -37,8 +37,7 @@ Dilruba Showkat is a Ph.D. Candidate at Northeastern University’s Khoury Colle
 
 ## EDUCATION
 
-***Ph.D. Candidate*** \
-Graduate Assistant (Fall 2021 - present) \
+***Ph.D. in Computer Science (Summer 2025)*** \
 Khoury College of Computer Sciences \
 Northeastern University, Boston, MA, USA \
 Thesis Advisor: Dr. Alexandra To 
@@ -56,7 +55,7 @@ University of Dhaka, Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## HONORS AND AWARDS
-* Nominated by Northeastern Khoury College Graduate School for Outstanding PhD student award (2024).
+* Nominated by Northeastern Khoury College Graduate School for the Outstanding PhD student award (2024).
 * ACM DIS 2023 - Best Paper Award.
 * Nominated by Northeastern Khoury College Graduate School for Google PhD Fellowship (2022).
 * Recipient of the Computing Research Association for Women (CRA-WP) Grad Cohort for Women scholarship (2020).
