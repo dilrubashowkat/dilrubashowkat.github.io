@@ -1,5 +1,5 @@
-# Dilruba Showkat
-#### Ph.D. 
+# Dilruba Showkat (she/her)
+#### Ph.D. in Computer Science
 #### [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/people/dilruba-showkat/)
 #### Northeastern University
 #### Boston, MA, USA
