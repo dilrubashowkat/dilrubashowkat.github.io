@@ -32,6 +32,7 @@ Dilruba Showkat earned her Ph.D. in Computer Science from Northeastern Universit
 * Human-Computer Interaction (HCI)
 * Value Sensitive Design (VSD)
 * Human-centered Artificial Inteligence (HCAI)
+* Inclusive AI/ML Literacy
 
 --------------------------------------------------------------------------------
 
@@ -121,6 +122,7 @@ Dhaka, Bangladesh
 
 ## SERVICE EXPERIENCE
 Program Committee (PC) Member / Associate Chair (AC)
+* ACM CHI 2026
 * AAAI/ACM AIES 2025
 * ACM CSCW 2025
 * ACM CC 2025 
@@ -129,7 +131,7 @@ Program Committee (PC) Member / Associate Chair (AC)
 * Review Committee member in the HCI Track at the Grace Hopper Conference (GHC): 2019-2021
   
 Conference Paper Reviewer:
-* ACM CSCW: 2020-2025
+* ACM CSCW: 2020-2026
 * ACM CHI: 2023-2025 
 * ACM DIS: 2022-2025
 * ACM IUI: 2022-2025
