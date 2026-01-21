@@ -132,9 +132,9 @@ Program Committee (PC) Member / Associate Chair (AC)
   
 Conference Paper Reviewer:
 * ACM CSCW: 2020-2026
-* ACM CHI: 2023-2025 
+* ACM CHI: 2023-2026
+* ACM IUI: 2022-2026 
 * ACM DIS: 2022-2025
-* ACM IUI: 2022-2025
 * ACM CC: 2022-2025
 
 Volunteering at Northeastern University
