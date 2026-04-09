@@ -8,7 +8,7 @@
 <!-- ![Dilruba](Images/IMG_3267.jpg){ width=10%,height:10px } -->
 
 
-[Work Email](showkat.d@northeastern.edu) | [Google Scholar](https://scholar.google.com/citations?user=g7wnqBgAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/dilruba-showkat-a644389/) | [Researchgate](https://www.researchgate.net/profile/Dilruba-Showkat) | [Orcid](https://orcid.org/0000-0003-3362-5800) | [DBLP](https://dblp.org/pid/135/9235.html)
+[Work Email](showkat.d@northeastern.edu) | [Google Scholar](https://scholar.google.com/citations?user=g7wnqBgAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/dilruba-showkat-a644389/) | [Researchgate](https://www.researchgate.net/profile/Dilruba-Showkat) | [Orcid](https://orcid.org/0000-0003-3362-5800) | [DBLP](https://dblp.org/pid/135/9235.html) | [Credly](https://www.credly.com/users/dilruba-showkat/badges)
 
 
 --------------------------------------------------------------------------------
@@ -57,6 +57,7 @@ University of Dhaka, Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## HONORS AND AWARDS
+* Outstanding Reviewer Awards (e.g., ACM CHI, ACM CSCW, ACM DIS)
 * ACM CSCW 2025 - Honorable Mention and Diversity, Equity, and Inclusion Recognition.
 * Nominated by Northeastern Khoury College Graduate School for the Outstanding PhD student award (2024).
 * ACM DIS 2023 - Best Paper Award.
