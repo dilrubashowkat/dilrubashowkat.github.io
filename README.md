@@ -14,7 +14,7 @@
 --------------------------------------------------------------------------------
 
 ## BIO
-Dilruba Showkat earned her Ph.D. in Computer Science from Northeastern University’s Khoury College of Computer Sciences, where she was advised by Dr. Alexandra To. Her research spans human–computer interaction (HCI), value-sensitive design, human-centered artificial intelligence (HCAI), and AI ethics. She holds both Bachelor’s and Master’s degrees in Computer Science from the University of Dhaka, Bangladesh, as well as an M.S. in Computer Science from Oregon State University, USA. Before pursuing her Ph.D., she served as a lecturer in the Department of Computer Science and Engineering at BRAC University in Dhaka, Bangladesh.
+Dilruba Showkat earned her Ph.D. in Computer Science from Northeastern University’s Khoury College of Computer Sciences, where she was advised by Dr. Alexandra To. Her research spans human-centered artificial intelligence (HCAI), AI ethics, and Inclusive AI Literacy. She holds both Bachelor’s and Master’s degrees in Computer Science from the University of Dhaka, Bangladesh, as well as an M.S. in Computer Science from Oregon State University, USA. Before pursuing her Ph.D., she served as a lecturer in the Department of Computer Science and Engineering at BRAC University in Dhaka, Bangladesh.
 
 ## NEWS
 * Congratulations, my advisor Prof. Alexandra To, on receiving the NSF CAREER Award!!
@@ -31,7 +31,8 @@ Dilruba Showkat earned her Ph.D. in Computer Science from Northeastern Universit
 ## RESEARCH INTERESTS
 * Human-Computer Interaction (HCI)
 * Value Sensitive Design (VSD)
-* Human-centered Artificial Inteligence (HCAI)
+* AI & Technology Ethics
+* Human-centered Artificial Intelligence (HCAI)
 * Inclusive AI/ML Literacy
 
 --------------------------------------------------------------------------------
@@ -43,10 +44,10 @@ Khoury College of Computer Sciences \
 Northeastern University, Boston, MA, USA \
 Thesis Advisor: Dr. Alexandra To 
 
-***Masters (M.S.) in Computer Science (Summer 2017)*** \
+***Master's (M.S.) in Computer Science (Summer 2017)*** \
 Oregon State University, Corvallis, Oregon, USA
 
-***Masters (M.S.) in Computer Science and Engineering (2012)*** \
+***Master's (M.S.) in Computer Science and Engineering (2012)*** \
 University of Dhaka, Dhaka, Bangladesh 
 
 ***Bachelor of Science (B.Sc.) in Computer Science and Engineering (2010)*** \
@@ -56,11 +57,12 @@ University of Dhaka, Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## HONORS AND AWARDS
+* ACM CSCW 2025 - Honorable Mention and Diversity, Equity, and Inclusion Recognition.
 * Nominated by Northeastern Khoury College Graduate School for the Outstanding PhD student award (2024).
 * ACM DIS 2023 - Best Paper Award.
 * Nominated by Northeastern Khoury College Graduate School for Google PhD Fellowship (2022).
 * Recipient of the Computing Research Association for Women (CRA-WP) Grad Cohort for Women scholarship (2020).
-* Received Ruqayyah Hall provost award (2010).
+* Received the Ruqayyah Hall Provost Award (2010).
 * Dhaka University scholarship for outstanding performance in B.Sc (2007).
 
 --------------------------------------------------------------------------------
@@ -83,9 +85,9 @@ uitous Robots (UR), Hawaii, USA, 2018. [https://ieeexplore.ieee.org/document/844
 
 
 ### Extended Abstracts
-1. **Dilruba Showkat**. (2024, May). *"Towards Algorithmic Reform: Low-Income Individuals Inclusion in AI/ML Literacy and Ethical Values-Informed Tool Design"*. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-6). [https://dl.acm.org/doi/full/10.1145/3613905.3651127](https://dl.acm.org/doi/full/10.1145/3613905.3651127)
+1. **Dilruba Showkat**. (2024, May). *"Towards Algorithmic Reform: Low-Income Individuals' Inclusion in AI/ML Literacy and Ethical Values-Informed Tool Design"*. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-6). [https://dl.acm.org/doi/full/10.1145/3613905.3651127](https://dl.acm.org/doi/full/10.1145/3613905.3651127)
 2. Laveda Chan, **Showkat, Dilruba**, & Alexandra To (2024, May). *"An Exploration of Learned Values Through Lived Experiences to Design for BIPOC Students’ Flourishing"*. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-7). [https://dl.acm.org/doi/abs/10.1145/3613905.3650899](https://dl.acm.org/doi/abs/10.1145/3613905.3650899)
-3. **Dilruba Showkat**, *"Determining Newcomers Barrier in Software Development: An IT Industry
+3. **Dilruba Showkat**, *"Determining Newcomers' Barrier in Software Development: An IT Industry
 Based Investigation.*", in the 21st ACM Computer-Supported Cooperative Work and Social Computing
 (CSCW), Jersey City, NY, USA, 2018. [https://dl.acm.org/doi/10.1145/3311957.3359467](https://dl.acm.org/doi/10.1145/3311957.3359467)
 
@@ -134,8 +136,8 @@ Conference Paper Reviewer:
 * ACM CSCW: 2020-2026
 * ACM CHI: 2023-2026
 * ACM IUI: 2022-2026 
-* ACM DIS: 2022-2025
-* ACM CC: 2022-2025
+* ACM DIS: 2022-2026
+* ACM CC: 2022-2026
 
 Volunteering at Northeastern University
 * PhD Applications Review (2022, 2023) - Northeastern University 
@@ -145,7 +147,7 @@ Volunteering at Northeastern University
 --------------------------------------------------------------------------------
 
 <!-- ## PERSONAL INTERESTS
-I love pets; currently, I live with our apartment puppy, She's just adorable and provides a great escape from a hectic life. I also love capturing nature photographs, especially sunsets and flowers! A glimpse of all these escapes I share in my digital diary [Instagram](https://www.instagram.com/ecstasyethereal/?hl=en). -->
+. -->
 
 
 
