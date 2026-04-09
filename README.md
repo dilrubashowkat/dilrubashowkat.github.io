@@ -57,7 +57,7 @@ University of Dhaka, Dhaka, Bangladesh
 --------------------------------------------------------------------------------
 
 ## HONORS AND AWARDS
-* Outstanding Reviewer Awards (e.g., ACM CHI, ACM CSCW, ACM DIS)
+* Special Recognitions for Outstanding Reviews (e.g., ACM CHI, ACM CSCW, ACM DIS)
 * ACM CSCW 2025 - Honorable Mention and Diversity, Equity, and Inclusion Recognition.
 * Nominated by Northeastern Khoury College Graduate School for the Outstanding PhD student award (2024).
 * ACM DIS 2023 - Best Paper Award.
